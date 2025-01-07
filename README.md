@@ -1,5 +1,5 @@
 
-Título do Projeto: Cadastrar No Internet Banking da Caixa Rápido e Fácil!
+Título do Projeto: Como de Cadastrar No Internet Banking da Caixa de um jeito simples e rápido!
 
 📒 Descrição
 Este projeto visa facilitar o cadastro no internet banking da Caixa, utilizando um avatar gerado por Inteligência Artificial para guiar os usuários de forma simples e intuitiva. O avatar apresenta um tutorial passo a passo que garante uma experiência acessível e eficiente.
