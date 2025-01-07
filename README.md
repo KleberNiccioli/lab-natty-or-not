@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+Título do Projeto: Cadastrar No Internet Banking da Caixa Rápido e Fácil!
 
-> Woooow! Look at this 👀
+📒 Descrição
+Este projeto visa facilitar o cadastro no internet banking da Caixa, utilizando um avatar gerado por Inteligência Artificial para guiar os usuários de forma simples e intuitiva. O avatar apresenta um tutorial passo a passo que garante uma experiência acessível e eficiente.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🤖 Tecnologias Utilizadas
+Microsoft Copilot: Geração de script e roteiro.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+CapCut: Edição de vídeo e adição de áudio.
 
-### Objetivos
+Colossyan Creator: Criação do avatar.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+🧐 Processo de Criação
+Geração do Roteiro: Utilizei o Microsoft Copilot para criar um roteiro detalhado que descreve o processo de cadastro no internet banking da Caixa de forma clara e direta.
 
-### Template
+Edição de Vídeo: Com o roteiro pronto, editei o vídeo usando CapCut, adicionando animações e efeitos que tornaram o tutorial visualmente atraente.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Criação do Avatar: Finalmente, utilizei o Colossyan Creator para gerar um avatar que apresenta o roteiro de maneira natural e envolvente.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+🚀 Resultados
+O projeto resultou em um vídeo tutorial de alta qualidade que guia os usuários passo a passo no processo de cadastro no internet banking da Caixa. O uso de tecnologias avançadas proporcionou uma experiência de usuário agradável e intuitiva, destacando a praticidade e eficiência das ferramentas utilizadas.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão (Opcional)
+Criar algo com IA foi um desafio interessante que demandou a integração de diversas tecnologias para alcançar um resultado harmonioso. A experiência reforçou a importância de combinar criatividade e precisão técnica para desenvolver projetos que realmente agreguem valor aos usuários.
